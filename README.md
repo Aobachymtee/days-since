@@ -1,2 +1,2 @@
 # days-since
-How many days has it been since a Hear Me Code member landed a job in tech?
+Đã bao nhiêu ngày kể từ cái ngày cộng đồng Chunimoi Việt Nam có drama?
